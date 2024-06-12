@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj",
+        "projectName": "x86_Assembly_Syntax_Highlighter",
+        "projectPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj",
+        "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.11.71, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[16.0.208, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
