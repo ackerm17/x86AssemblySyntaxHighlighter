@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj": {}
+    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\SyntaxHighlighter.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj": {
+    "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\SyntaxHighlighter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj",
-        "projectName": "x86_Assembly_Syntax_Highlighter",
-        "projectPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj",
+        "projectUniqueName": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\SyntaxHighlighter.csproj",
+        "projectName": "SyntaxHighlighter",
+        "projectPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\SyntaxHighlighter.csproj",
         "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\obj\\",
+        "outputPath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

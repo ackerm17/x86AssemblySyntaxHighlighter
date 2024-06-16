@@ -10,11 +10,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectTypeGuids>{82b43b9b-a64c-4715-b499-d71e9ca2bd60};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <ProjectGuid>{FF91D71A-EC7B-4DE9-B525-A33B7F0CA6BE}</ProjectGuid>
+    <ProjectGuid>{688A4578-B42D-4D8A-9982-2894115079CC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>x86_Assembly_Syntax_Highlighter</RootNamespace>
-    <AssemblyName>x86_Assembly_Syntax_Highlighter</AssemblyName>
+    <RootNamespace>SyntaxHighlighter</RootNamespace>
+    <AssemblyName>SyntaxHighlighter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
@@ -45,8 +45,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="EditorClassifier1.cs" />
+    <Compile Include="EditorClassifier1ClassificationDefinition.cs" />
+    <Compile Include="EditorClassifier1Format.cs" />
+    <Compile Include="EditorClassifier1Provider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="x86_Assembly_Syntax_HighlighterPackage.cs" />
+    <Compile Include="SyntaxHighlighterPackage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="source.extension.vsixmanifest">
@@ -54,7 +58,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.SDK" Version="16.0.208" ExcludeAssets="runtime" />

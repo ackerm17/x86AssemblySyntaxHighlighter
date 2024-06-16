@@ -1,0 +1,16 @@
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.dll
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.pdb
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.pkgdef
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\bin\Debug\SyntaxHighlighter.vsix
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\bin\Debug\extension.vsixmanifest
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.csproj.AssemblyReference.cache
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\_EmptyResource.resources
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.csproj.GenerateResource.cache
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.csproj.CoreCompileInputs.cache
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.dll
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.pdb
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.pkgdef
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\SyntaxHighlighter.latest.pkgdef
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\extension.vsixmanifest
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\files.json
+E:\Projects\x86_Assembly_Syntax_Highlighter\SyntaxHighlighter\SyntaxHighlighter\obj\Debug\createTemplateManifests.cache

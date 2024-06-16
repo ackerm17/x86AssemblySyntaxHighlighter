@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using Task = System.Threading.Tasks.Task;
 
-namespace x86_Assembly_Syntax_Highlighter
+namespace SyntaxHighlighter
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.
@@ -24,13 +24,13 @@ namespace x86_Assembly_Syntax_Highlighter
     /// </para>
     /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [Guid(x86_Assembly_Syntax_HighlighterPackage.PackageGuidString)]
-    public sealed class x86_Assembly_Syntax_HighlighterPackage : AsyncPackage
+    [Guid(SyntaxHighlighterPackage.PackageGuidString)]
+    public sealed class SyntaxHighlighterPackage : AsyncPackage
     {
         /// <summary>
-        /// x86_Assembly_Syntax_HighlighterPackage GUID string.
+        /// SyntaxHighlighterPackage GUID string.
         /// </summary>
-        public const string PackageGuidString = "ef014903-cec1-4854-ae98-55d4fe785ffb";
+        public const string PackageGuidString = "44a9ee1e-67a4-40b6-92bd-3b5fee1a6403";
 
         #region Package Members
 

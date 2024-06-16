@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="x86_Assembly_Syntax_Highlighter.94a58302-7813-4db4-8732-385996dcf7c2" Version="1.0" Language="en-US" Publisher="ben ackerman" />
-    <DisplayName>x86_Assembly_Syntax_Highlighter</DisplayName>
+    <Identity Id="SyntaxHighlighter.296f983f-5ff1-4fae-910b-3cbd26797d53" Version="1.0" Language="en-US" Publisher="Company" />
+    <DisplayName>SyntaxHighlighter</DisplayName>
     <Description>Empty VSIX Project.</Description>
   </Metadata>
   <Installation>
@@ -16,5 +16,6 @@
   </Prerequisites>
   <Assets>
     <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%|" />
   </Assets>
 </PackageManifest>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhA2d6edL4Lqoyl6sL4dwq6JlVqGMxipO3um+Jjj7v/rHMnvflW9Isg01hdv0f7Ir4raRU6eFKHVBJaHOwdSkg==",
+  "dgSpecHash": "JY56ga4MV88MYp1oADHtuiX7E11p7EiYif/rZdTeSusBiDSOY/4Q7XejAxe4i9lVRrSzmjYZy3V7GABeC7Hjfw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter\\x86_Assembly_Syntax_Highlighter.csproj",
+  "projectFilePath": "E:\\Projects\\x86_Assembly_Syntax_Highlighter\\SyntaxHighlighter\\SyntaxHighlighter\\SyntaxHighlighter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benjamin\\.nuget\\packages\\envdte\\8.0.2\\envdte.8.0.2.nupkg.sha512",
     "C:\\Users\\Benjamin\\.nuget\\packages\\envdte100\\10.0.3\\envdte100.10.0.3.nupkg.sha512",
