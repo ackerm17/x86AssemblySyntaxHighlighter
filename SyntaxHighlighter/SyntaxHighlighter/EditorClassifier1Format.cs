@@ -6,16 +6,16 @@ using System.Windows.Media;
 namespace HelloHighlighter
 {
     [Export(typeof(EditorFormatDefinition))]
-    [ClassificationType(ClassificationTypeNames = "helloGoodbye")]
-    [Name("helloGoodbye")]
-    [UserVisible(true)]
+    [ClassificationType(ClassificationTypeNames = "setupStuff")]
+    [Name("setupStuff")]
+    [UserVisible(false)]
     [Order(Before = Priority.Default)]
-    internal sealed class HelloGoodbyeFormatDefinition : ClassificationFormatDefinition
+    internal sealed class SetupFormatDefinition : ClassificationFormatDefinition
     {
-        public HelloGoodbyeFormatDefinition()
+        public SetupFormatDefinition()
         {
-            this.DisplayName = "Hello and Goodbye"; // Human-readable name
-            this.ForegroundColor = Colors.Turquoise;
+            this.DisplayName = "highlights for initial setup"; // Human-readable name
+            this.ForegroundColor = Colors.LightPink;
         }
     }
 }

@@ -7,7 +7,7 @@ namespace HelloHighlighter
     internal static class ClassificationDefinitions
     {
         [Export(typeof(ClassificationTypeDefinition))]
-        [Name("helloGoodbye")]
+        [Name("setupStuff")]
         internal static ClassificationTypeDefinition HelloGoodbyeType = null;
     }
 }

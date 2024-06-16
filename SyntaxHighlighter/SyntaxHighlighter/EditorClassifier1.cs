@@ -11,7 +11,7 @@ namespace HelloHighlighter
 
         internal HelloClassifier(IClassificationTypeRegistryService registry)
         {
-            _classificationType = registry.GetClassificationType("helloGoodbye");
+            _classificationType = registry.GetClassificationType("setupStuff");
         }
 
         public event EventHandler<ClassificationChangedEventArgs> ClassificationChanged;
@@ -21,8 +21,10 @@ namespace HelloHighlighter
             var classifications = new List<ClassificationSpan>();
             var text = span.GetText();
 
-            HighlightWord(span, text, "hello", classifications);
-            HighlightWord(span, text, "goodbye", classifications);
+            HighlightWord(span, text, ".386", classifications);
+            HighlightWord(span, text, ".model", classifications);
+            HighlightWord(span, text, ".code", classifications);
+            HighlightWord(span, text, ".data", classifications);
 
             return classifications;
         }
